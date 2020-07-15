@@ -1,0 +1,22 @@
+{
+  "name": "zue-family-bucket",
+  "version": "1.0.0",
+  "description": "Vue全家桶仿写系列 - Zue全家桶",
+  "main": "index.js",
+  "scripts": {
+    "commit": "git add . && git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhukunpenglinyutong/zue-family-bucket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhukunpenglinyutong/zue-family-bucket/issues"
+  },
+  "homepage": "https://github.com/zhukunpenglinyutong/zue-family-bucket#readme",
+  "dependencies": {
+    "git-cz": "^4.7.0"
+  }
+}
